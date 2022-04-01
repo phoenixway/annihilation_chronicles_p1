@@ -22,11 +22,8 @@ fi
 echo -e "${GREEN}Making commit to git...${NC}"
 echo -e "${BLUE}Please, enter commit message: ${NC}\c"
 COMMIT_MESSAGE=minor
-read -e -t 3 -p "" -i $COMMIT_MESSAGE COMMIT_MESSAGE
-if [[ $? -gt 128 ]] ; then
-    echo 
-    COMMIT_MESSAGE=minor
-fi
+read -e -t 3 NEW_COMMIT_MESSAGE
+[ -n "$NEW_COMMIT_MESSAGE" ] && COMMIT_MESSAGE=$NEW_COMMIT_MESSAGE
 git commit -m "${COMMIT_MESSAGE}"
 if [ $? != 0 ]
 then
