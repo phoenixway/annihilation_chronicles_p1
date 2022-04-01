@@ -9,7 +9,7 @@ RED="\033[0;31m"
 NC="\033[0m"
 
 echo -e "${LGREEN}Roman Kozak's adding to git megascript!${NC}"
-echo -e "${BLUE}Here we will update already added files from git repository. \nIf u want adding new files to the index, make 'git add blabla' manually before running this script.${NC}"
+echo -e "${BLUE}Here we will update already added files in git repository. \nIf u want adding new files, make 'git add blabla' manually before running this script.${NC}"
 echo -e "${GREEN}Staging updated indexed files to git...${NC}"
 cd $STUDIO_DIR
 echo -e "${BLUE}Studio dir is $(pwd)${NC}"
