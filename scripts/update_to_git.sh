@@ -20,9 +20,10 @@ then
     exit 1
 fi
 echo -e "${GREEN}Making commit to git...${NC}"
-echo -e "${BLUE}Please, enter commit message: ${NC}\c"
 COMMIT_MESSAGE=minor
+echo -e "${BLUE}Please, enter commit message (default is '${COMMIT_MESSAGE}': ${NC}\c"
 read -e -t 3 NEW_COMMIT_MESSAGE
+echo
 [ -n "$NEW_COMMIT_MESSAGE" ] && COMMIT_MESSAGE=$NEW_COMMIT_MESSAGE
 git commit -m "${COMMIT_MESSAGE}"
 if [ $? != 0 ]
