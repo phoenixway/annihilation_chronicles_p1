@@ -38,3 +38,4 @@ else
     echo -e "${GREEN}Git update is successful!${NC}"
 fi
 
+
