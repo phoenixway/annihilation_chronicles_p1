@@ -20,7 +20,7 @@ then
     exit 1
 fi
 echo -e "${GREEN}Making commit to git...${NC}"
-echo -e "${BLUE}Please, enter commit message: \c${NC}"
+echo -e "${BLUE}Please, enter commit message: ${NC}\c"
 read -e -p "" -i "minor" COMMIT_MESSAGE
 
 git commit -m "${COMMIT_MESSAGE}"
