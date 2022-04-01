@@ -20,7 +20,9 @@ then
     exit 1
 fi
 echo -e "${GREEN}Making commit to git...${NC}"
-git commit -m 'minor'
+read -e -p "Please, enter commit message:" -i "minor" COMMIT_MESSAGE
+
+git commit -m $COMMIT_MESSAGE
 if [ $? != 0 ]
 then
     echo -e "${RED}Error: git commit failed${NC}"
