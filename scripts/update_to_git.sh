@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+version = 0.1
 STUDIO_DIR=~/studio_luisa/
 
 LGREEN="\033[1;32m"
