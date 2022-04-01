@@ -27,7 +27,6 @@ if [[ $? -gt 128 ]] ; then
     echo 
     COMMIT_MESSAGE=minor
 fi
-
 git commit -m "${COMMIT_MESSAGE}"
 if [ $? != 0 ]
 then
