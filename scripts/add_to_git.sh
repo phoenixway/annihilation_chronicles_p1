@@ -14,9 +14,6 @@ echo -e "${GREEN}Staging updated indexed files to git...${NC}"
 cd $STUDIO_DIR
 echo -e "${BLUE}Studio dir is $(pwd)${NC}"
 git add -u .
-#[ $? -eq 0 ]  || exit 1
-#git add $STUDIO_DIR/захист/Хроніки\ Геноциду/**/*.md
-#git add $STUDIO_DIR/захист/Хроніки\ Геноциду/media/**/*.*
 if [ $? != 0 ]
 then
     echo -e "${RED}Error: git add failed${NC}"
