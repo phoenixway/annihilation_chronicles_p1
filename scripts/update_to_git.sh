@@ -24,6 +24,7 @@ echo -e "${BLUE}Please, enter commit message: ${NC}\c"
 COMMIT_MESSAGE=minor
 read -e -t 3 -p "" -i $COMMIT_MESSAGE COMMIT_MESSAGE
 if [[ $? -gt 128 ]] ; then
+    echo -e \n
     COMMIT_MESSAGE=minor
 fi
 
