@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+STUDIO_DIR=~/studio_luisa/
+
 LGREEN="\033[1;32m"
 GREEN="\033[0;32m"
 BLUE="\033[0;34m"
@@ -9,7 +11,6 @@ NC="\033[0m"
 echo -e "${LGREEN}Roman Kozak's adding to git megascript!${NC}"
 echo -e "${BLUE}Here we will update already added files from git repository. \nIf u want adding new files to the index, make 'git add blabla' manually before running this script.${NC}"
 echo -e "${GREEN}Staging updated indexed files to git...${NC}"
-STUDIO_DIR=~/studio_luisa/
 cd $STUDIO_DIR
 echo -e "${BLUE}Studio dir is $(pwd)${NC}"
 git add -u .
