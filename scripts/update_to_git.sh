@@ -23,7 +23,7 @@ echo -e "${GREEN}Making commit to git...${NC}"
 COMMIT_MESSAGE=minor
 echo -e "${BLUE}Please, enter commit message (default is '${COMMIT_MESSAGE})': ${NC}\c"
 read NEW_COMMIT_MESSAGE
-[ -n "$NEW_COMMIT_MESSAGE" ] && COMMIT_MESSAGE=$NEW_COMMIT_MESSAGE || echo
+[ -n "$NEW_COMMIT_MESSAGE" ] && COMMIT_MESSAGE=$NEW_COMMIT_MESSAGE 
 git commit -m "${COMMIT_MESSAGE}"
 if [ $? != 0 ]
 then
