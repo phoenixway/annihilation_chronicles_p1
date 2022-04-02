@@ -8,10 +8,14 @@ BLUE="\033[0;34m"
 GREEN="\033[0;32m"
 RED="\033[0;31m"
 NC="\033[0m"
+LGREEN="\033[1;32m"
 
 now=`date +"%m-%d-%Y"`
 CURRENT_DIR=`pwd`
 STUDIO_DIR=~/studio_luisa/
+
+echo -e "${LGREEN}Roman Kozak's update to flashcard megascript!${NC}"
+
 
 get_abs_filename() {
   # $1 : relative filename
