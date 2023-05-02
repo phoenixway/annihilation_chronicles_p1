@@ -1,4 +1,12 @@
+## About this document
 In this text is described in details the criminal organization serving the interests of Russia, which operates on the territory of Ukraine and Western countries. Their activities, methods, goals, impact. In particular author reveals the long-term quiet purposeful annihilation of  himself and his loved ones in every aspect of our lives.
+
+## Tags in text
+Starts with @ symbol.
+@acoustic_strikes 
+@father 
+@sect_strategies
+@poisoning
 
 ## March 21, 2023
 The facts. My brother goes shopping. So called mother like rocket is going to go with him. Indeed, a noticeable hurry. They go and I am staying alone at home. Almost like in the comedy of the same name. I work on a computer in my room. They were gone for 2.5-3 hours. They return, knock on the door to apartment. I go to open it - and find out an obvious strong smell of gas in the apartment. I look - in the kitchen, the largest burner of the gas stove is open at maximum.
@@ -8,6 +16,7 @@ The facts. My brother goes shopping. So called mother like rocket is going to go
 * I walk a lot with a camera. Transport transition. A military car drives up. The door loudly slams. Two cops and a resident of my house (it was very far from it) come out nearby. Coincidence. They hum, but you can't take it off because it is forbidden to record video with military objects.
 * Cats that sit at home and do not come into contact with anyone besides dwellers of my apartment have a fever. We also do not come into contact with other people's cats. Where in our apartment can we get cat viruses?
 * It is enogh to stay in a local park for more than 10 minutes as the someone starts to burn tires somewhere nearby.
+<mark style="background: #D2B3FFA6;">@poisoning</mark>
 
 ## April 27, 2023
 The so-called father is forced to behave extremely provocatively in order to cause me to behave in a way that is not usual for a normal relationship. So send him to ban - I don't have the strength and time to tolerate it. The shit poured himself down the toilet.  
@@ -23,6 +32,8 @@ It feels like you are being literally hit with a heavy stick. Now that I have le
 The difference between a manic paranoid person and a person with PTSD is that the first one sees something that is not there, but otherwise disorders are very similar. The sect seems to have interviewed some psychiatrist, accidentally found out similarity, and decided to build a strategy for my brother and me on this. To attack us massively with acoustic shocks, to artificially induce PTSD, to collect "evidence of our mental disorders". At a possible hypothetical trial, it would be my word against a chorus of obvious lies from corrupt, sect-controlled puppets and a mountain of evidence obtained by all means and ways that COULD be interpreted as external signs of manic manifestations. I have seen a mountain of crimes against me, and I testify to this. And the criminals and the puppets they control testify to the contrary. Who will the court believe: an officially unemployed person who has been unemployed for almost 10 years, who has been pressured by the sect in every possible way career-wise, socially, financially, or a collection of those whom it has supported and promoted in every possible way? And what if the court is like the one in Ukraine - corrupt and controlled by the authorities, whom only the blind or insane would not suspect of being loyal to Russia, given a minimal amount of factual information? Whose incompetence is recognized by both the blind and the insane?
 
 So, I see two main lines of the sect in relation to me. The first is destruction of everything possible. The second is provocations with fixating my answers so that they can portray me in a way that is beneficial to them. Details and justification later.
+<mark style="background: #D2B3FFA6;">@acoustic_strikes</mark> <mark style="background: #D2B3FFA6;">@father</mark> <mark style="background: #D2B3FFA6;">@sect_strategies</mark>
 
 ## May 2, 2023
 As always, if I complain here about certain acts of the sect, it tries to start doing it many times stronger. They throw so strongly that my body wobbles, I feel sick. To concussion.
+<mark style="background: #D2B3FFA6;">@acoustic_strikes</mark> <mark style="background: #D2B3FFA6;">@sect_strategies</mark>
