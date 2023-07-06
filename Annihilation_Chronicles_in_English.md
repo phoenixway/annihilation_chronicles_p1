@@ -42,3 +42,5 @@ This episode well characterizes the strategy, which he and so called mother real
 We made a good step, like good children - the next day a request comes that we cannot fulfill. And afterwards - "you are bad children, etc". They called - please, come. When I came - help. Helped - help a lot. Then - very, very much help needed. He come up with more and more requests until you start to refuse. Plus provocations, other bad stuff. I'm not exaggerating. This is what is literally happening to us. One of goals of all that is to have visible reason to stay aside when we need their help. We refuse to help, we are bad, so it is morally acceptable to refuse helping us.
 As you understand, it is impossible to maintain a normal relationship with such a person. And abnormal relationship is unnecessary.
 <mark style="background: #D2B3FFA6;">@parents</mark> <mark style="background: #D2B3FFA6;">@sect_strategies</mark>
+
+Jule 2
